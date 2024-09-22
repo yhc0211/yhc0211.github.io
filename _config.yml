@@ -21,7 +21,7 @@ repository               : "yhc0211/yhc0211.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://github.com/yhc0211/yhc0211.github.io/blob/master/headshot.jpg"
+  avatar           : https://github.com/yhc0211/yhc0211.github.io/blob/master/headshot.jpg
   name             : "Yung-Han (Tina) Chang"
   pronouns         : # example: "she/her"  
   bio              : "A PhD student at MD Anderson Quantitative Science"
