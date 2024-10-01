@@ -12,7 +12,7 @@ redirect_to:
 {% include base_path %}
 
 
-Please click here for a more detailed [CV]().
+Please click here for a more detailed [CV](files/CV.pdf).
 
 Education
 ======
