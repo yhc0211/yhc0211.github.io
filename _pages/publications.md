@@ -8,8 +8,8 @@ author_profile: true
 
 ### Conference Poster
 * **Yung-Han Chang**, Bogdan Pasaniuc, Sara Lindstroem, Arjun Bhattacharya. “Isoform-specific transcriptome-wide association studies of 6 cancers uncover extensive risk mechanisms undetectable by gene-level methods”. Poster Presentation at American Society for Human Genetics Annual Meeting 2024
-* Arjun Bhattacharya, **Yung-Han Chang**, Bogdan Pasaniuc, Sara Lindstroem. “Isoform-level transcriptome-wide analyses identify extensive genetic mechanisms for breast cancer risk undetectable on the gene-level”. Poster Presentation at the American Association for Cancer Research Annual Meeting 2024
-* **Yung-Han Chang**, Yi Ding, Arjun Bhattacharya, Bogdan Pasaniuc. “Factors Influencing the Portability of Gene Expression Imputation in Transcriptome-Wide Association Studies across Ancestry”. Poster Presentation at American Society for Human Genetics
+* Arjun Bhattacharya, **Yung-Han Chang**, Bogdan Pasaniuc, Sara Lindstroem. [“Isoform-level transcriptome-wide analyses identify extensive genetic mechanisms for breast cancer risk undetectable on the gene-level.”](https://aacrjournals.org/cancerres/article/84/6_Supplement/4332/737091) Poster Presentation at the American Association for Cancer Research Annual Meeting 2024
+* **Yung-Han Chang**, Yi Ding, Arjun Bhattacharya, Bogdan Pasaniuc. [“Factors Influencing the Portability of Gene Expression Imputation in Transcriptome-Wide Association Studies across Ancestry.”](https://www.ashg.org/wp-content/uploads/2023/10/ASHG2023-PosterAbstracts.pdf) Poster Presentation at American Society for Human Genetics Annual Meeting 2023 & International Genetic Epidemiology Society Annual Meeting 2023
 
 
 ### Journal Paper
