@@ -11,56 +11,23 @@ redirect_to:
 
 {% include base_path %}
 
+
+Please click here for a more detailed [CV]().
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Quantitative Science, University of Texas MD Anderson Cancer Center, 2029 (expected)
+* M.S. in Biostatistics, University of California, Los Angeles, 2024
+* B.S. in Agronomy, National Taiwan University, 2020
 
-Work experience
+
+Research & Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Graduate Student Researcher, University of Texas MD Anderson Cancer Center, 2024
+* Graduate Student Researcher, UCLA, 2022 - 2024
+* Data Scientist, National Taiwan University Hospital, 2021 - 2022
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Programming Language: R, Python, SAS, SQL, Linux, Git/GitHub, Bash
