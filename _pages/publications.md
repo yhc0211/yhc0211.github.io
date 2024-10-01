@@ -5,16 +5,18 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-### Preprints
-* Stephanie L. Orstad, Joseph A. Ladapo, Judith Wylie-Rosett, Chi-Hong Tseng, **Kuan-Hung Yeh**, Un Young, Rebecca Chung, Soma Wali, Melanie Jay “Effects of financial incentives for meeting behavioral goals vs. weight loss targets on program attendance, self-weighing, dietary tracking, and physical activity following a 6-month weight loss intervention” (under review at Society of Behavioral Medicine)
 
 ### Conference Poster
-* **Kuan-Hung Yeh.**, Tzu-Pin Lu.,(2019) "Using National Cancer Registry Data to Develop Prediction Model for Colon Cancer in Taiwan." *In: 2019 Taiwan Public Health Joint Annual Conference, Taiepi, Taiwan.*
-* **Kuan-Hung Yeh.**, Yi Ding, Bogdan Pasaniuc. (2023) “Impact of genetic architecture in fitting polygenic scores in Cox Proportional Hazards Models” Poster presentation at 2023 American Society of Human Genetics
+* **Yung-Han Chang**, Bogdan Pasaniuc, Sara Lindstroem, Arjun Bhattacharya. “Isoform-specific transcriptome-wide association studies of 6 cancers uncover extensive risk mechanisms undetectable by gene-level methods”. Poster Presentation at American Society for Human Genetics Annual Meeting 2024
+* Arjun Bhattacharya, **Yung-Han Chang**, Bogdan Pasaniuc, Sara Lindstroem. “Isoform-level transcriptome-wide analyses identify extensive genetic mechanisms for breast cancer risk undetectable on the gene-level”. Poster Presentation at the American Association for Cancer Research Annual Meeting 2024
+* **Yung-Han Chang**, Yi Ding, Arjun Bhattacharya, Bogdan Pasaniuc. “Factors Influencing the Portability of Gene Expression Imputation in Transcriptome-Wide Association Studies across Ancestry”. Poster Presentation at American Society for Human Genetics
 
-### Conference Paper
-* **K. Yeh**, C. Lin, T. Hsiao and T. Lu,  ["Genome-Wide Association Study (GWAS) on Metabolic Syndrome in Subjects with Abdominal Obesity in a Taiwanese Population."](https://www.computer.org/csdl/proceedings-article/bibm/2020/09313373/1qmghpCxV2E) *in 2020 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), Seoul, Korea (South), 2020* pp. 1403-1407.
-doi: 10.1109/BIBM49941.2020.9313373
 
 ### Journal Paper
-* Han-Ching Chan., Chi-Cheng Huang., Ching-Chieh Huang., Amrita Chattopadhyay., **Kuan-Hung Yeh.**, Wen-Chung Lee., Chun-Ju Chiang., Skye Hung-Chun Cheng., Tzu-Pin Lu., (2021) ["Predicting Colon Cancer-Specific Survival for the Asian Population Using National Cancer Registry Data from Taiwan".](https://pubmed.ncbi.nlm.nih.gov/34427821/) *Annals of Surgical Oncology.*  2021 Aug 24. doi: 10.1245/s10434-021-10646-2. PMID: 34427821.
+* Ye Liu, Chia-Hung Yo, Jiun-Ruey Hu, Wan-Ting Hsu, Jo-Ching Hsiung, **Yung-Han Chang**, Shyr-Chyr Chen, Chien-Chang Lee. [“Sepsis increases the risk of in-hospital cardiac arrest: a population-based analysis.”](https://pubmed.ncbi.nlm.nih.gov/38141118/) Accepted by Internal and Emergency Medicine
+* Wan-Ting Hsu, Yu-Ting Lee, Jasmine Tan, **Yung-Han Chang**, Frank Qian, Kuei-Yu Liu, Jo-Ching Hsiung, Chia-Hung Yo, Sung-Chun Tang, Xia Jiang, Chien-Chang Lee. [“Genome–phenome wide association study of broadly defined headache.”](https://academic.oup.com/braincomms/article/5/3/fcad167/7177587) Brain Communications, Volume 5, Issue 3, 2023
+* Lee CC, Lee MG, Huang IH, Tan J, McCaw ZR, Su KY, Hsu TC, Huang RYJ, Kuo PH, Chen SC, **National Taiwan University Hospital, Health Data Science Research Group**. [“Genome-wide association study of primary dysmenorrhea in the Taiwan Biobank validates associations near the NGF and IL1 gene loci.”](https://www.nature.com/articles/s10038-022-01023-2) J Hum Genet. 2022 Aug;67(8):449-458
+
+
+### Submitted/Under Review
+* Jasmine Tan, **Yung-Han Chang**, Frank Qian, Wan-Ting Hsu, Chi-Heng Kuo, Silvia Diz-de Almeida, Raquel Cruz, Jose A. Riancho, Augusto Rojas-Martinez, Pablo Lapunzina, Carlos Flores, Angel Carracedo, Chien-Chang Lee. “A polygenic risk score to predict severe COVID-19 in two prospective biobanks of European ancestry”. Submitted to eClinicalMedicine
