@@ -16,9 +16,9 @@ Please click here for a more detailed [CV](https://yhc0211.github.io/files/CV.pd
 
 Education
 ======
-* Ph.D in Quantitative Science, University of Texas MD Anderson Cancer Center, 2029 (expected)
+* Ph.D in Quantitative Science, The University of Texas MD Anderson Cancer Center, 2029 (expected)
 * M.S. in Biostatistics, University of California, Los Angeles, 2024
-* B.S. in Agronomy, National Taiwan University, 2020
+* B.S. in Agronomy (Biostatistics & Biostatistics Track), National Taiwan University, 2020
 
 
 Research & Work Experience
