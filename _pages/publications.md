@@ -15,7 +15,7 @@ author_profile: true
 
 
 ### Preprint/Submitted/Under Review
-* **Yung-Han Chang**, S. Taylor Head, Tabitha Harrison, Yao Yu, Chad D. Huff, Bogdan Pasaniuc, Sara Lindström, Arjun Bhattacharya. [“Isoform-level analyses of 6 cancers uncover extensive genetic risk mechanisms undetected at the gene-level”.][https://www.medrxiv.org/content/10.1101/2024.10.29.24316388v1] *Preprint on medRxiv*
+* **Yung-Han Chang**, S. Taylor Head, Tabitha Harrison, Yao Yu, Chad D. Huff, Bogdan Pasaniuc, Sara Lindström, Arjun Bhattacharya. [“Isoform-level analyses of 6 cancers uncover extensive genetic risk mechanisms undetected at the gene-level."](https://www.medrxiv.org/content/10.1101/2024.10.29.24316388v1) *Preprint on medRxiv*
 * Jasmine Tan, **Yung-Han Chang**, Frank Qian, Wan-Ting Hsu, Chi-Heng Kuo, Silvia Diz-de Almeida, Raquel Cruz, Jose A. Riancho, Augusto Rojas-Martinez, Pablo Lapunzina, Carlos Flores, Angel Carracedo, Chien-Chang Lee. “A polygenic risk score to predict severe COVID-19 in two prospective biobanks of European ancestry.” *Submitted to eClinicalMedicine*
 
 
