@@ -11,5 +11,5 @@ I’m a first-year Ph.D. student in Quantitative Science at [the University of T
 
 My research interests lie in statistical and population genetics, especially the use of computational and statistical methods to uncover biological mechanisms influencing cancer risk.
 
-Outside of academics, I enjoy movies and TV shows, watching basketball and baseball (Go Dodgers!), and spending time with my dog,
-![Lulu](https://yhc0211.github.io/files/lulu.jpg).
+Outside of academics, I enjoy movies and TV shows, watching basketball and baseball (Go Dodgers!), and spending time with my dog, Lulu.
+![Lulu](https://yhc0211.github.io/files/lulu.jpg)
