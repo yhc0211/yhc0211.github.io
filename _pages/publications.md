@@ -8,6 +8,7 @@ author_profile: true
 
 
 ### Journal Paper
+* **Yung-Han Chang**, S. Taylor Head, Tabitha Harrison, Yao Yu, Chad D. Huff, Bogdan Pasaniuc, Sara Lindström, Arjun Bhattacharya. [“Isoform-level analyses of 6 cancers uncover extensive genetic risk mechanisms undetected at the gene-level."](https://www.medrxiv.org/content/10.1101/2024.10.29.24316388v1) *British Journal of Cancer, 2025. Emerging Leaders in Cancer Special Edition.*
 * Meng-Han Tsai, Sung-Chu Ko, Amy Huaishiuan Huang, Lorenzo Porta, Cecilia Ferretti, Clarissa Longhi, Wan-Ting Hsu, **Yung-Han Chang**, Jo-Ching Hsiung, Chin-Hua Su, Filippo Galbiati, Chien-Chang Lee. [“Predicting mortality in hospitalized influenza patients: integration of deep learning-based chest X-ray severity score (FluDeep-XR) and clinical variables”.](https://academic.oup.com/jamia/advance-article-abstract/doi/10.1093/jamia/ocae286/7907142) *Journal of the American Medical Informatics Association, 2024;,ocae286*
 * Ye Liu, Chia-Hung Yo, Jiun-Ruey Hu, Wan-Ting Hsu, Jo-Ching Hsiung, **Yung-Han Chang**, Shyr-Chyr Chen, Chien-Chang Lee. [“Sepsis increases the risk of in-hospital cardiac arrest: a population-based analysis.”](https://pubmed.ncbi.nlm.nih.gov/38141118/) *Intern Emerg Med 19, 353–363 (2024)*
 * Wan-Ting Hsu, Yu-Ting Lee, Jasmine Tan, **Yung-Han Chang**, Frank Qian, Kuei-Yu Liu, Jo-Ching Hsiung, Chia-Hung Yo, Sung-Chun Tang, Xia Jiang, Chien-Chang Lee. [“Genome–phenome wide association study of broadly defined headache.”](https://academic.oup.com/braincomms/article/5/3/fcad167/7177587) *Brain Communications, Volume 5, Issue 3, 2023*
@@ -15,7 +16,6 @@ author_profile: true
 
 
 ### Preprint/Submitted/Under Review
-* **Yung-Han Chang**, S. Taylor Head, Tabitha Harrison, Yao Yu, Chad D. Huff, Bogdan Pasaniuc, Sara Lindström, Arjun Bhattacharya. [“Isoform-level analyses of 6 cancers uncover extensive genetic risk mechanisms undetected at the gene-level."](https://www.medrxiv.org/content/10.1101/2024.10.29.24316388v1) *Preprint on medRxiv*
 * Jasmine Tan, **Yung-Han Chang**, Frank Qian, Wan-Ting Hsu, Chi-Heng Kuo, Silvia Diz-de Almeida, Raquel Cruz, Jose A. Riancho, Augusto Rojas-Martinez, Pablo Lapunzina, Carlos Flores, Angel Carracedo, Chien-Chang Lee. “A polygenic risk score to predict severe COVID-19 in two prospective biobanks of European ancestry.” *Submitted to eClinicalMedicine*
 
 
