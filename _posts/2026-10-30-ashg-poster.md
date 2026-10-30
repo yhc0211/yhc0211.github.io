@@ -2,10 +2,6 @@
 title: 'ASHG 2026 Poster: Isoform-level Expression Improves Survival Signal Selection and Prediction'
 date: 2026-10-30
 permalink: /posts/2026/10/ashg-2026-poster/
-tags:
-  - ASHG
-  - Transcriptomics
-  - Survival Analysis
 ---
 
 I presented our work, **"Isoform-level Expression Improves Survival Signal Selection and Prediction,"** at the **ASHG 2026 Annual Meeting** in Montréal, Canada.
