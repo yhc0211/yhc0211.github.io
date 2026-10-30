@@ -1,4 +1,3 @@
-
 ---
 title: 'ASHG 2026 Poster: Isoform-level Expression Improves Survival Signal Selection and Prediction'
 date: 2026-10-30
